@@ -1,0 +1,36 @@
+[submodule "7thSemK3P23DV/byods/BYOD3-testautomation"]
+	path = 7thSemK3P23DV/byods/BYOD3-testautomation
+	url = https://github.com/jamiyanmyadagB/BYOD3-testautomation
+[submodule "7thSemK3P23DV/byods/BYOD"]
+	path = 7thSemK3P23DV/byods/BYOD
+	url = https://github.com/jamiyanmyadagB/BYOD
+[submodule "7thSemK3P23DV/byods/cse304_byod1"]
+	path = 7thSemK3P23DV/byods/cse304_byod1
+	url = https://github.com/jamiyanmyadagB/cse304_byod1
+[submodule "7thSemK3P23DV/projects/EduSubmit"]
+	path = 7thSemK3P23DV/projects/EduSubmit
+	url = https://github.com/jamiyanmyadagB/EduSubmit
+[submodule "7thSemK3P23DV/projects/ReadingHook"]
+	path = 7thSemK3P23DV/projects/ReadingHook
+	url = https://github.com/jamiyanmyadagB/ReadingHook
+[submodule "7thSemK3P23DV/projects/auto-scaling-microservice"]
+	path = 7thSemK3P23DV/projects/auto-scaling-microservice
+	url = https://github.com/jamiyanmyadagB/auto-scalingMicroService
+[submodule "7thSemK3P23DV/projects/DevLearn"]
+	path = 7thSemK3P23DV/projects/DevLearn
+	url = https://github.com/jamiyanmyadagB/DevLearn
+[submodule "7thSemK3P23DV/byods/BYOD1_CICD"]
+	path = 7thSemK3P23DV/byods/BYOD1_CICD
+	url = https://github.com/jamiyanmyadagB/BYOD1_CICD
+[submodule "7thSemK3P23DV/byods/android-CA1"]
+	path = 7thSemK3P23DV/byods/android-CA1
+	url = https://github.com/jamiyanmyadagB/androidCA1
+[submodule "7thSemK3P23DV/projects/EduSUbmit-1"]
+	path = 7thSemK3P23DV/projects/EduSUbmit-1
+	url = https://github.com/jamiyanmyadagB/EduSubmit1
+[submodule "7thSemK3P23DV/projects/e-commerce-app"]
+	path = 7thSemK3P23DV/projects/e-commerce-app
+	url = https://github.com/jamiyanmyadagB/e-commerceApp
+[submodule "7thSemK3P23DV/projects/observability-stack"]
+	path = 7thSemK3P23DV/projects/observability-stack
+	url = https://github.com/jamiyanmyadagB/observability-stack
